@@ -43,3 +43,10 @@ To run the notebooks locally, make sure you have the following Python libraries 
 pip install numpy pandas librosa scikit-learn tensorflow matplotlib
 ```
 
+## 🔨 **How to Use**
+
+1. **Feature Extraction**: Open the `Audio_Features_Checking.ipynb` notebook to load your audio data and extract essential features.
+2. **Model Training**: After extracting features, proceed to the `Classification_ESC_50.ipynb` notebook to build and train the classification model.
+3. **Test Your Model**: Evaluate your model on the test set and see the accuracy with visualizations.
+4. **Classify New Audio**: Use the trained model to predict the class of new, unseen audio files.
+
