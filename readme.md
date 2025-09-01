@@ -50,3 +50,14 @@ pip install numpy pandas librosa scikit-learn tensorflow matplotlib
 3. **Test Your Model**: Evaluate your model on the test set and see the accuracy with visualizations.
 4. **Classify New Audio**: Use the trained model to predict the class of new, unseen audio files.
 
+## 🌱 **Contributing**
+
+Contributions are always welcome! If you'd like to contribute to improving this repository, follow these steps:
+
+1. Fork the repository
+2. Create your branch (`git checkout -b feature/feature-name`)
+3. Make your changes
+4. Commit your changes (`git commit -am 'Add new feature'`)
+5. Push to the branch (`git push origin feature/feature-name`)
+6. Create a new Pull Request
+
